@@ -1,5 +1,5 @@
 ### Hi there
-<!-- COMMENT -->
+
 
 
 # WhatsApp Chat Analysis Project
@@ -105,6 +105,9 @@ This notebook covers:
 - Visualization of chat patterns, such as message frequency, word usage, and sender activity.
 
 #### 3. Message Sentiment Analysis
+<!-- COMMENT -->
+<!-- COMMENT -->
+![newplot (28)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/ff1be60e-ec61-4b42-80e5-9679055e0ab6)
 
 This notebook covers:
 - Sentiment analysis of text messages using machine learning techniques.
