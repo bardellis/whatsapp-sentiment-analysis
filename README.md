@@ -1,4 +1,4 @@
-### Hi there ![image](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/51186dc6-5759-4e31-880a-8946fa34e61a)
+### Hi there ![image]
 
 
 # WhatsApp Chat Analysis Project
