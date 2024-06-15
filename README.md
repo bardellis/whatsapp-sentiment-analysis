@@ -142,10 +142,14 @@ Here's the breakdown:
 15. 🎉: 39
 
 ### Sentiment polarity 
+In a general analysis of the polarity it can be seen that the predominant polarity is negative (39.90) while the positive represents only 34%.
+All this despite having won the world cup. 
+It is understandable due to the discussions related to the presidential elections...
+![newplot (53)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/6ff439ed-cbad-4416-9690-f509a85bd722)
+
 Now entering the polarity analysis, it can be seen that the use of emojis is more associated to messages with positive connotations. 
 When the messages do not have emojis, the negative content of the messages is significantly higher (42%). 
 While when emojis are used, the negative messages drop to 25%.
-
 ![newplot (42)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/b92f58e7-af15-48a2-9655-defb096a7046)
 
 ### Charateristic of messages
@@ -164,7 +168,6 @@ Actually it was the presidential elections..
 ![newplot (44)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/cdb10298-3e42-4e17-bf68-46b9ef9f411e)
 
 You can also see the increase in the intervention of the different members
-
 ![newplot (45)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/de4bd863-17af-4e15-aee2-47c14919c220)
 
 ### Interaction during day/weekdays
@@ -186,7 +189,7 @@ or when someone responds to a message that is not the previous one...
 but after reviewing it, we confirmed that the vast majority of messages respond to the previous immediate message...
 ![newplot (50)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/eadf3fba-4cdb-48b5-9280-57da90e3aa0e)
 
-### topics
+### Topics
 With the help of multilingual Bertopic I carried out this analysis that allows us to predict the most common topics.
 Personally I'm not surprised that birthday greetings come first...
 ![newplot (52)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/54c5db32-25b2-4085-b4a5-a42a6afb6845)
@@ -194,8 +197,10 @@ Personally I'm not surprised that birthday greetings come first...
 ### Final conclusion
 After analyzing the WhatsApp group chat, it can be concluded that the group:
 1. It is a space where members laugh a lot and show appreciation for each other.
-2. However, the predominant sentiment is negative
+2. However, the predominant sentiment is negative (39.90%)
 3. Politics seems to be the most frequent topic (futbol appears in the background).
+
+
 
 ## Contributing
 
