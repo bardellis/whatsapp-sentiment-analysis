@@ -105,9 +105,6 @@ This notebook covers:
 - Visualization of chat patterns, such as message frequency, word usage, and sender activity.
 
 #### 3. Message Sentiment Analysis
-<!-- COMMENT -->
-<!-- COMMENT -->
-![newplot (28)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/ff1be60e-ec61-4b42-80e5-9679055e0ab6)
 
 This notebook covers:
 - Sentiment analysis of text messages using machine learning techniques.
@@ -118,6 +115,40 @@ This notebook covers:
 This notebook covers:
 - Sentiment analysis of emojis used in the chats.
 - Analysis of how emojis correlate with the sentiment of messages.
+
+
+## Conclusions
+
+## Chat with/without emoji
+![newplot (41)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/ac5683fe-fae3-4e3f-930d-363136ca651a)
+
+## Ranking de emojis
+It looks like you've got a fun list of popular emojis and their usage counts! Here's the breakdown:
+
+1. 😂: 503
+2. 🤣: 277
+3. 🏻: 221
+4. 😅: 169
+5. 👏: 149
+6. 🤷: 89
+7. 🤦: 80
+8. 💪: 65
+9. 🐔: 54
+10. 🤔: 50
+11. 🍾: 46
+12. 🤪: 42
+13. 🎂: 42
+14. ✌: 42
+15. 🎉: 39
+
+Emojis add so much flavor to our digital conversations, don't they? 😄 If you need any more information or have other questions, feel free to ask!
+
+## negative/positive/neutral
+![newplot (42)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/b92f58e7-af15-48a2-9655-defb096a7046)
+
+## charateristic of messages (words p/chat)
+![newplot (43)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/a79b114a-8656-41eb-9406-e470ada7d252)
+
 
 ## Contributing
 
