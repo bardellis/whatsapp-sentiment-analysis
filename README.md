@@ -149,6 +149,34 @@ Emojis add so much flavor to our digital conversations, don't they? 😄 If you 
 ## charateristic of messages (words p/chat)
 ![newplot (43)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/a79b114a-8656-41eb-9406-e470ada7d252)
 
+# interventions overtime
+se puede ver como se incrementó la intervecion en septiembre
+![newplot (43)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/df9b1ffa-2d60-431f-aa50-a4e6312a46a7)
+
+aca se puede ver el incremento en miembros individuales
+![newplot (45)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/de4bd863-17af-4e15-aee2-47c14919c220)
+
+![newplot (46)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/0c4456e5-b3b7-4a80-b202-0a5e07c62ffc)
+
+## time of the day
+se puede ver que el momento de mas actividad es el martes por la tarde y el miercoles durante la tarde
+![newplot (47)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/da3ef093-436e-45c2-8e5b-86c372cd51b5)
+
+aca se puede ver la participacion de los miembros durante los dias de la semana
+![newplot (48)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/264e7a37-f7ff-459a-aae0-9b53d2c4a6aa)
+
+## interaccion entre miembros
+According to the analysis Fede and Chongui were the most interactive members
+![image](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/02317ae8-7718-490d-9580-fb17a2087beb)
+
+![newplot (49)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/25f1fb1b-d1cd-4a1d-a071-aab8bca092ee)
+
+![newplot (50)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/eadf3fba-4cdb-48b5-9280-57da90e3aa0e)
+
+## temas
+
+![newplot (52)](https://github.com/bardellis/whatsapp-sentiment-analysis/assets/105069472/54c5db32-25b2-4085-b4a5-a42a6afb6845)
+
 
 ## Contributing
 
