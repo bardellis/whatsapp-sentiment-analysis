@@ -9,9 +9,9 @@
 This project involves the analysis of WhatsApp chat data to extract meaningful insights and perform sentiment analysis on messages and emojis. The project is divided into multiple Jupyter Notebooks, each focusing on different aspects of the analysis:
 
 1. **ETL (Extract, Transform, Load)**
-2. **Exploratory Data Analysis (EDA)**
-3. **Message Sentiment Analysis**
-4. **Emoji Sentiment Analysis**
+2. **Message Sentiment Analysis**
+3. **Emoji Sentiment Analysis**
+4. **Exploratory Data Analysis (EDA)**
 
 ## Project Structure
 
