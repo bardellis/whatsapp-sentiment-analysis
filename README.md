@@ -10,7 +10,7 @@ This project involves the analysis of WhatsApp chat data to extract meaningful i
 3. **Emoji Sentiment Analysis**
 4. **Exploratory Data Analysis (EDA)**
 
-## Project Structure
+## Project Structure.
 
 The project consists of the following Jupyter Notebooks:
 
