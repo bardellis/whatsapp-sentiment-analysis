@@ -21,7 +21,7 @@ The project consists of the following Jupyter Notebooks:
 
 ## Setup
 
-### Prerequisites
+### Prerequisites.
 
 Ensure you have the following installed:
 
