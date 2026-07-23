@@ -8,7 +8,7 @@ This project involves the analysis of WhatsApp chat data to extract meaningful i
 1. **ETL (Extract, Transform, Load)**
 2. **Message Sentiment Analysis**
 3. **Emoji Sentiment Analysis**
-4. **Exploratory Data Analysis (EDA)**
+4. **Exploratory Data Analysis (EDA)** 
 
 ## Project Structure. 
 
